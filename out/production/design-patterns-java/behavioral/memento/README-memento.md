@@ -1,1 +1,0 @@
-Memento is pattern that let us restore previous state of object without violating encapsulation.

@@ -1,1 +1,0 @@
-State pattern is pattern that allows object to change behavior when its internal state is changed.

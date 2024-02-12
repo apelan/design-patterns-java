@@ -1,1 +1,0 @@
-Specification pattern is pattern that allows us combine business rules as a bool logic.

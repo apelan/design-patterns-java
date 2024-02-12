@@ -1,1 +1,0 @@
-Interpreter pattern helps us to define specialized language and provides us evaluation of sentences of that language.

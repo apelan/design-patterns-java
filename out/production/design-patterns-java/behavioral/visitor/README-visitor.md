@@ -1,1 +1,0 @@
-Visitor pattern lets us separate algorithms from the objects on which they are used.
