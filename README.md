@@ -12,7 +12,7 @@ Even though the goal was to have "real" examples (something that you can see in 
 Some examples are something that I actually used/implemented/saw in real projects, 
 some of them are created inspired from other sources 
 but few of them are actually made-up examples just to understand how pattern works.
-<br/><br/>
+
 Design patterns are grouped in three categories - creational, structural and behavioral.
 Currently there are examples for 30 patterns, you can see all of them listed in links below:
 - [Creational](https://github.com/apelan/design-patterns-java/blob/master/src/creational/README-creational.md)
