@@ -7,16 +7,17 @@ This is where design patterns come in handy.
 Design patterns helps us achieve reusable and maintainable software solutions 
 by providing templates for solving commonly occurring problems.
 
-Design patterns are grouped in three categories:
-- [Creational](https://github.com/apelan/design-patterns-java/blob/master/src/creational/README-creational.md)
-- [Structural](https://github.com/apelan/design-patterns-java/blob/master/src/structural/README-structural.md)
-- [Behavioral](https://github.com/apelan/design-patterns-java/blob/master/src/behavioral/README-behavioral.md)
-
 <h3>What can I see here?</h3>
 Even though the goal was to have "real" examples (something that you can see in real project) I failed.
 Some examples are something that I actually used/implemented/saw in real projects, 
 some of them are created inspired from other sources 
 but few of them are actually made-up examples just to understand how pattern works.
+
+Design patterns are grouped in three categories - creational, structural and behavioral.
+Currently there are examples for 30 patterns, you can see all of them listed in links below:
+- [Creational](https://github.com/apelan/design-patterns-java/blob/master/src/creational/README-creational.md)
+- [Structural](https://github.com/apelan/design-patterns-java/blob/master/src/structural/README-structural.md)
+- [Behavioral](https://github.com/apelan/design-patterns-java/blob/master/src/behavioral/README-behavioral.md)
 
 <h3>Why does this repository exist?</h3>
 This repository is created as practice and for learning purposes.
